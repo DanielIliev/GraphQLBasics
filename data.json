@@ -1,0 +1,16 @@
+{
+    "recipes": [
+        {
+            "id": "1", "name": "Potatoes", "description": "Potato salad", "author": "Rafiki"
+        },
+        {
+            "id": "2", "name": "Potatoes", "description": "Potato salad", "author": "Rafiki"
+        },
+        {
+            "id": "3", "name": "Potatoes", "description": "Potato salad", "author": "Rafiki"
+        },
+        {
+            "id": "4", "name": "Potatoes", "description": "Potato salad", "author": "Rafiki"
+        }
+    ]
+}
